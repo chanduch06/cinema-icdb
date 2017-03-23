@@ -1,0 +1,32 @@
+[
+  {
+    "pk": 1,
+    "model": "Movies.Movies",
+    "fields": {
+      "name": "Harry potter",
+      "genre": "Scifi",
+      "year": 1999 ,
+      "rating" : 8
+    }
+  },
+  {
+    "pk": 2,
+    "model": "Movies.Movies",
+    "fields": {
+      "name": "Terminator",
+      "genre": "Action",
+      "year": 2004 ,
+      "rating" : 9
+    }
+  },
+  {
+    "pk": 3,
+    "model": "Movies.Movies",
+    "fields": {
+      "name": "Titanic",
+      "genre": "Romance",
+      "year": 1997 ,
+      "rating" : 9
+    }
+  }
+]

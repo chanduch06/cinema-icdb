@@ -1,0 +1,7 @@
+{
+  "id": {{ Movies.id }},
+  "name": "{{ Movies.name }}",
+  "genre": "{{ Movies.genre }}",
+  "year": {{ Movies.year }} ,
+  "rating" : {{ Movies.rating }}
+}

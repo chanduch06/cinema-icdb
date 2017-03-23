@@ -1,0 +1,5 @@
+[
+  {% for movie in movies %}
+    {% include 'movie.json' with movie=movie %}{% if not forloop.last %},{% endif %}
+  {% endfor %}
+]
